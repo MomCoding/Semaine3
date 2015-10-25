@@ -1,0 +1,90 @@
+/* Eléments généraux police et dimension bloc */
+
+h1, h2, h3, p {
+	font-family: Calibri, sans-serif;
+	}
+	
+#bloc_page {
+	width: 900px;
+	margin: auto;
+	background-color: #ecf0f1;
+	}
+
+
+/* Bloc titre */
+
+header h1 {
+	font-family: Calibri, sans-serif;
+	font-size: 3em;
+	color: #e67e22;
+	text-align: center;
+	}
+	
+img {
+	width: 200px;
+	height: 200px;
+	border: 2px dotted #e67e22;
+	}
+	
+.image {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 1px;
+	}
+	
+header p {
+	text-align: center;
+	font-weight: bold;
+	}
+	
+/* Corps du CV */
+
+.bloc_CV {
+	display: inline-block;
+	vertical-align: top;
+	width: 420px;
+	margin-left: 15px;
+	text-align: justify;
+	}
+	
+footer {
+	display: inline-block;
+	text-align: center;
+	width: 900px;
+	}
+
+	
+#experience {
+	background-color: #9b59b6;
+	color: white;
+	height: 300px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	}	
+	
+#secteurs {
+	background-color: #27ae60;
+	color: white;
+	height: 145px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	}
+
+#formation {
+	background-color: #f1c40f;
+	color: white;
+	height: 145px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	}
+	
+h2, h3 {
+	text-align: center;
+	}
+	
+	
+	
+	
+	
+	
